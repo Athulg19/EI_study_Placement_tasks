@@ -106,26 +106,32 @@ Enter your choice:
      Enter priority level (High, Medium, Low): High <br>```
 
 3. **❌ Remove an Existing Task**
+
    ```plaintext
    - Enter the exact task description to remove it from the schedule.```
     
 5. **👀 View All Tasks**
+
    ```plaintext
    - Displays all scheduled tasks sorted by start time.```
     
 7. **✅ Mark Task as Completed**
+
    ```plaintext
    - Enter the task description to mark it as completed.```
 
 9. **🔍 View Tasks by Priority**
+
    ```plaintext
    - Enter a priority level to filter tasks (High, Medium, Low).```
 
 2. **✏️ Edit an Existing Task**
+
    ```plaintext
    - Enter the description of the task you wish to edit and provide new details.```
 
 2. **🚪 Exit**
+
    ```plaintext
    - Closes the application.```
 
